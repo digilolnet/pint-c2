@@ -1,0 +1,5 @@
+cffi==1.16.0
+liburing @ git+https://github.com/sausagenoods/liburing-cffi@e9de11a0e6da96684aecf29c4fb686b2ed4d4c17
+prompt-toolkit==3.0.43
+pycparser==2.21
+wcwidth==0.2.13
